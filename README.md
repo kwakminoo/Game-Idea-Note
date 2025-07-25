@@ -8,7 +8,8 @@
 - [3D 모델링으로 변환](https://huggingface.co/spaces/JeffreyXiang/TRELLIS)
 - 블랜더에서 새부 조정
 - [MeshyAi](https://www.meshy.ai/)
-
+- [magnific](https://magnific.ai/?via=gryun)
+- [Sparc3D](https://huggingface.co/spaces/ilcve21/Sparc3D)
 - 한국형 모델링들을 무료로 나눠주는걸 조금 수정하거나 그걸 포함하고 다른 것들을 만들어서 에셋 스토어에 올려볼까?
 
 

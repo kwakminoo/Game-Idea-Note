@@ -10,6 +10,7 @@
 - [Kling aI 숏폼 생성](https://app.klingai.com/global/?gad_source=1&gad_campaignid=21901789338&gbraid=0AAAAA-NKDyA_6Oip3S6dPHrKIPX88Fbq2)
 - [runwayml 프롬프트 기반 영상 제작, 앵글 변환](https://runwayml.com/)
 - [HunyuanWorld 3D 맵 생성](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)
+- [사진 기반 딥 페이크?](https://higgsfield.ai/steal-chrome-extension)
 
 ### 3D 캐릭터 모델링 만들기
 - 원하는 이미지 구현

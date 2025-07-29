@@ -11,6 +11,7 @@
 - [runwayml 프롬프트 기반 영상 제작, 앵글 변환](https://runwayml.com/)
 - [HunyuanWorld 3D 맵 생성](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)
 - [사진 기반 딥 페이크?](https://higgsfield.ai/steal-chrome-extension)
+- [미드저니](https://www.midjourney.com/explore?tab=top_month)
 
 ### 3D 캐릭터 모델링 만들기
 - 원하는 이미지 구현

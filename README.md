@@ -13,6 +13,7 @@
 - [사진 기반 딥 페이크?](https://higgsfield.ai/steal-chrome-extension)
 - [미드저니](https://www.midjourney.com/explore?tab=top_month)
 - [프리픽 영상 생성 AI](https://kr.freepik.com/)
+- [슈퍼톤, TTS](https://play.supertone.ai/?utm_campaign=google&utm_content=google&utm_medium=google&utm_source=google&gad_source=1&gad_campaignid=22759811759&gbraid=0AAAAA-BGUEFO4DdRdomyGs0zZsb1r2OTI&gclid=CjwKCAjwv5zEBhBwEiwAOg2YKFzzbno8qpMgLGDINLWnJNwTh_Z1L6mZV_91Z3GktuYIXJpkya3t6hoCvBgQAvD_BwE)
 
 ### 3D 캐릭터 모델링 만들기
 - 원하는 이미지 구현

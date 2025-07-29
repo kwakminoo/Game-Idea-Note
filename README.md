@@ -2,6 +2,14 @@
 
 ### AI
 - [젠 스파크](https://www.genspark.ai/)
+- [Veo3 frames to video]()
+- [구글 개발 AI OPAL](https://opal.withgoogle.com/landing/)
+- [deevid 영상 생성형 AI](https://deevid.ai/ko/model/wanx-ai?utm_source=google&utm_medium=cpc&utm_campaign=ko-model-rsk&utm_term=wan&utm_content=pc&gad_source=1&gad_campaignid=22690685461&gbraid=0AAAAAq898mPoj7icqJs2zJ4FiFhgsprKC&gclid=CjwKCAjwv5zEBhBwEiwAOg2YKAcd1LYZVNvaD0ryk6l_Ue8v_zpR819H8xylwjgG3UxqL0IoiimeMhoCiFgQAvD_BwE)
+- [하드라 AI 사진을 기반으로 말하는 캐릭터 생성](https://www.visionstory.ai/ko?utm_source=google&utm_medium=cpc&utm_campaign=22460495233&utm_content=177833639683&utm_term=hedra%20ai&gad_source=1&gad_campaignid=22460495233&gbraid=0AAAAA-OnsBMK2Vh1FeYWUjTYznWpGBWZR&gclid=CjwKCAjwv5zEBhBwEiwAOg2YKAgW3BXFX8cLzXuRJlJ4tcam3OPDntiXevOSB2Bi9Dz7P-2SgH4fDxoCHIwQAvD_BwE)
+- [오픈소스 TTS](https://github.com/boson-ai/higgs-audio/)
+- [Kling aI 숏폼 생성](https://app.klingai.com/global/?gad_source=1&gad_campaignid=21901789338&gbraid=0AAAAA-NKDyA_6Oip3S6dPHrKIPX88Fbq2)
+- [runwayml 프롬프트 기반 영상 제작, 앵글 변환](https://runwayml.com/)
+- [HunyuanWorld 3D 맵 생성](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)
 
 ### 3D 캐릭터 모델링 만들기
 - 원하는 이미지 구현
